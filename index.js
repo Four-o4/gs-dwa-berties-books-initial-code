@@ -18,7 +18,7 @@ app.use(express.urlencoded({ extended: true }))
 app.use(express.static(path.join(__dirname, 'public')))
 
 // Define our application-specific data
-app.locals.shopData = {shopName: "Bertie's Books"}
+app.locals.shopData = {shopName: "Bertie's Book Shop"}
 
 // Define the database connection pool
 const db = mysql.createPool({
