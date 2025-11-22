@@ -25,15 +25,17 @@ See our book list
 # About berties book shop
 We sell all sorts of books and nothing else!
 -------------------------------------------------------------------------
-
-# search for books
-what book do you want?
-*SEARCH BAR*
--------------------------------------------------------------------------
 # Register with us
 FIRST NAME:
 LAST NAME:
 EMAIL:
+-------------------------------------------------------------------------
+# Sign in
+Username:
+password:
+-------------------------------------------------------------------------
+# Resistered users
+A list of all users registered will show up
 -------------------------------------------------------------------------
 # Add book
 TITLE:
